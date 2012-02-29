@@ -1,3 +1,4 @@
+-- This problem is under construction, imperative programming conflict with functional one.
 import Data.Array
 
 

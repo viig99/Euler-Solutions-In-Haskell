@@ -1,4 +1,4 @@
-111import PrimeHelper
+import PrimeHelper
 import Data.Numbers.Primes
 import Data.Digits
 import Data.Char
